@@ -14,7 +14,7 @@ class _NameSaveScreenState extends State<NameSaveScreen> {
     //Bu fonksiyon, SharedPreferences kullanmaya hazır hale getiriyor.prefs değişkeniyle yazma ve okuma
     final prefs = await SharedPreferences.getInstance();
   }
-
+mnö
   @override
   Widget build(BuildContext context) {
     return Scaffold(
